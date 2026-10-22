@@ -41,27 +41,30 @@ Focus areas:
 🔗 **[View Week 1 Project](https://github.com/KashishMaurya24/Logistics-Delivery-Analysis-Week1)**
 
 ---
+### Week 2: Food Delivery Logistics — Data Cleaning and Preprocessing
 
-### Week 2 — Data Collection, Cleaning, and Preprocessing for Logistics Analysis
+**Status: ✅ Completed**
 
-**Status: 🔄 In Progress**
+Objective: Prepare food delivery data for reliable logistics analysis using Python.
 
-Focus areas:
+Work completed:
 
-* Public logistics dataset collection
-* Dataset characteristics and data quality assessment
-* Missing-value treatment
-* Duplicate detection
-* Data-type correction
-* Domain validation
-* IQR-based outlier detection
-* Categorical data consistency
-* Standardization
-* Feature engineering
-* Final dataset validation and ex
-export
+- Inspected dataset structure and data quality.
+- Analyzed missing values and investigated potential outliers.
+- Performed feature engineering and numerical standardization.
+- Validated the processed dataset and documented the workflow.
+- Created visualizations to communicate preprocessing results.
 
-🔗 Coming soon
+Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
+
+Dataset: 38,964 records; processed dataset contains 27 columns.
+
+Project files: "Week 2 Repository" (https://github.com/KashishMaurya24/Logistics-Delivery-Analysis-Week2)
+
+Deliverables: Python notebook, preprocessed CSV dataset, detailed report, and visualization images.
+
+
+
 
 Week 3 — Advanced Data Analysis and Visualization in Logistics
 
