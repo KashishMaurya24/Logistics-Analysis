@@ -63,46 +63,6 @@ Project files: "Week 2 Repository" (https://github.com/KashishMaurya24/Logistics
 
 Deliverables: Python notebook, preprocessed CSV dataset, detailed report, and visualization images.
 
-
-
-
-Week 3 — Advanced Data Analysis and Visualization in Logistics
-
-Status: ⏳ Upcoming
-
-Focus areas:
-
-Hypothetical logistics dataset simulation
-Exploratory Data Analysis
-Central tendency and distributions
-Correlation analysis
-Logistics performance visualizations
-Visualization-method justification
-Operational efficiency analysis
-Cost-driver identification
-Bottleneck identification
-Data-driven recommendations
-
-🔗 Coming soon
-
-Week 4 — Predictive Modeling and Optimization in Logistics Systems
-
-Status: ⏳ Upcoming
-
-Focus areas:
-
-Logistics forecasting problem definition
-Dataset and target-variable design
-Predictive model selection
-Model training and testing
-Performance evaluation using RMSE, MAE, and R²
-Cross-validation and/or hyperparameter tuning
-Optimization strategies
-Resource allocation, route planning, or cost minimization
-Actionable logistics recommendations
-
-🔗 Coming soon
-
 🔄 Project Workflow
 
 The internship follows a progressive data-science workflow:
@@ -164,6 +124,5 @@ B.Tech — Artificial Intelligence & Machine Learning
 ⭐ Project Status
 Week	Status
 Week 1	✅ Completed
-Week 2	🔄 In Progress
-Week 3	⏳ Upcoming
-Week 4	⏳ Upcoming
+Week 2	🔄 Completed
+
